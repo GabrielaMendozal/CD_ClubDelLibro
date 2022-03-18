@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.title{
+	color: purple;
+}
+
+.name{
+	color:red;
+}
+
+.book{
+	color:purple;
+}
+
+.author{
+	color:green;
+}
